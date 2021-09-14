@@ -12,3 +12,5 @@ https://lannylopez.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Lanny Lopez
+
+### ©️ 2019 Run Buddy, Inc
