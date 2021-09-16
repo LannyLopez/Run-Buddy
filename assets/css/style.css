@@ -102,20 +102,16 @@ section {
 .hero {
   background-image: url(../images/hero-bg.jpg);
   background-size: cover;
-  background-position: center;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   align-items: flex-start;
   background-attachment: fixed;  
   background-position: 80%;
-  background-image: url("../images/hero-bg.jpg");
-  background-size: cover;
-  background-position: center;
 }
 
 .hero-form {
-  background-color:#fce138;
+  background-color:rgba(255, 225, 56, 0.8);
   padding: 20px;
   color: #024e76;
   border-style: solid;
@@ -123,8 +119,8 @@ section {
   border-color: #024e76;
   width: 40%;
   margin: 3.5%;
-  box-shadow: 0 0 10px rgba(0,0,0.0.5);
   border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0.0.5);
 }
 
 .hero-cta {
@@ -367,7 +363,6 @@ section {
  margin-top: 5px;
  border-radius: 10px;
  background-color: rgba(255,255,255, 0.75);
-}
 }
 
 .contact-form button {
